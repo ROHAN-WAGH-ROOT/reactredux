@@ -1,0 +1,30 @@
+.body {
+	margin-top: 100px;
+}
+.Heading {
+	text-align: center;
+}
+.input {
+	text-align: center;
+}
+.inputValue {
+	padding: 10px;
+	font-size: 15px;
+	margin: 20px;
+}
+.output {
+	width: auto;
+	text-align: center;
+	padding: 10px;
+	margin: 10px;
+}
+.fa-regular fa-plus {
+	width: 200px;
+}
+.addButton {
+	color: white;
+	border: 2px solid white;
+	background-color: turquoise;
+	padding: 10px 10px;
+	font-size: 18px;
+}
